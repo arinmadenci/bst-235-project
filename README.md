@@ -1,2 +1,1 @@
-# bst-235-project
-Functional estimation in High Dimensional Problems
+Slides and written summary of recent articles on Functional Estimation in High Dimensional Problems
